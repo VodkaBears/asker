@@ -34,7 +34,8 @@
   "dependencies": {
     "terror": "0.3.x",
     "extend": "1.1.3",
-    "contimer": "1.x"
+    "contimer": "1.x",
+    "dns-graceful-stack-switch": "0.0.7"
   },
   "devDependencies": {
     "mocha": "1.11.x",
